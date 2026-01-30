@@ -1,18 +1,6 @@
 [theme]
-# Base theme: light untuk presentasi eksekutif
-base = "light"
+base="light"
+primaryColor="#1f77b4"
 
-# Primary brand color (biru corporate)
-primaryColor = "#003366"
-
-# Background utama
-backgroundColor = "#FFFFFF"
-
-# Background sidebar / container
-secondaryBackgroundColor = "#F3F4F6"
-
-# Warna teks utama
-textColor = "#1F2937"
-
-# Font aman untuk corporate
-font = "sans serif"
+[server]
+headless=true
